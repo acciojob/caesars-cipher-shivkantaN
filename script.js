@@ -30,3 +30,4 @@ for (let i = 0; i < encodedStr.length; i++) {
 // console.log(rot13("SERR YBIR? NPPVBWBO"));
 
 module.exports = rot13;
+
